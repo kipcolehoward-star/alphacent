@@ -14,7 +14,7 @@ function Contact() {
           <div className="space-y-6">
             <div>
               <h3 className="text-sm font-medium text-gray-400 mb-1">Email</h3>
-              <p>hello@alphacent.inc</p>
+              <p>hello@alphacentinc.com</p>
             </div>
             <div>
               <h3 className="text-sm font-medium text-gray-400 mb-1">Phone</h3>

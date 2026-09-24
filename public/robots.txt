@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alphacent.inc/sitemap.xml
+Sitemap: https://alphacentinc.com/sitemap.xml
